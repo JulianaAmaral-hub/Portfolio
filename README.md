@@ -1,4 +1,2 @@
 # repositorio_teste
-Criação de repositório teste
-
-Testes de alteração
+Repositorio criado para faciliar acesso aos codigos demosntrados no Portfolio
